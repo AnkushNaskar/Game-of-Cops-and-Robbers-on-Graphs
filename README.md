@@ -2,13 +2,15 @@
 
 CS201 Course Project
 
-We have included the codes of simple grid, cylinder and tori type graphs, which use SFML library of C++ for visuals. We need Visual Studio and SFML installed for it.
-Click on the graph nodes to set the initial positions of the cops and the robber. Use the arrow keys to control the robber on the graph, and press any other key to keep the robber stationary. Yellow nodes indicate cops and the Red node indicates the robber.
+We have implemented the classic game of Cops and Robbers on simple grids, cylinders, and torus type (sphere like) graph. To make edits to the code, ensure you have Visual Studio and SFML library installed on your system, or just run the Code.exe file in the Game-of-Cops-and-Robbers-on-Graphs/Compiled/ folder to play the game!
+
+To interact with the graphs, click on the nodes to establish initial positions for both cops and the robber. You can then control the movement of the robber using the arrow keys, or keep the robber stationary by pressing any other key. 
+The yellow nodes represent the cops, while the red node designates the position of the robber.
+
 
 Name of mentoring TA: Sravanthi Chede
 
- Name of team members:
-
+Name of team members: 
  Ankush Naskar(2022csb1068)
  Satvik Srivastava(2022csb1120)
  Ashish Gupta(2022csb1260)
